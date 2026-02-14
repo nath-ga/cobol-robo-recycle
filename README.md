@@ -26,7 +26,7 @@ The implementation is written in COBOL using GnuCOBOL and follows a structured, 
 - Separation of logical processing blocks (LOAD, PARSE, CALCULATE)
 
 ## Structure
-
+```
 cobol-robo-recycle/
 │
 ├── data/
@@ -38,15 +38,14 @@ cobol-robo-recycle/
 │ └── calc_costs.cbl
 │
 └── README.md
-
+```
 ## How to Compile and Run
 
-Using GnuCOBOL:
-
+Using GnuCOBOL, compile from the src directory:
 ```bash
 cobc -x calc_costs.cbl
 ./calc_costs
-
+```
 ## Purpose
 
 This project demonstrates:
