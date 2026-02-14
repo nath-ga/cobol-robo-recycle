@@ -1,0 +1,9 @@
+PARTNO;NAME;UNIT_COST
+PA100;Roboterarm Standard;1200.00
+PA200;Roboterarm HeavyDuty;1800.00
+MC100;Microcontroller Board;85.00
+SN100;Optik-Sensor;60.00
+SN200;NIR-Sensor;95.00
+CH100;Chassis;750.00
+WH100;Radmodul;110.00
+BT100;Akku-Pack;260.00
