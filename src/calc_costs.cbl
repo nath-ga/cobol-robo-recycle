@@ -1,3 +1,15 @@
+       * --------------------------------------------------
+       * RoboRecycle Systems
+       * Material Cost Calculation via BOM
+       * Reads:
+       *   parts.csv
+       *   robots.csv
+       *   bom.csv
+       * Calculates:
+       *   cost per robot
+       *   total production cost
+       * --------------------------------------------------
+       
        IDENTIFICATION DIVISION.
        PROGRAM-ID. CALCCOSTS.
 
